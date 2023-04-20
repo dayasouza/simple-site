@@ -19,7 +19,7 @@ li {
 }
 
 .light-theme {
-    --bg: var(--green);
+    --bg: --white;
     --fontColor: var(--black);
     --btnBg:var(--black);
     --btnFontColor: var(--white);
